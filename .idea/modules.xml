@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/XChemDB.iml" filepath="$PROJECT_DIR$/.idea/XChemDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataset_clustering/.idea/dataset_clustering.iml" filepath="$PROJECT_DIR$/../dataset_clustering/.idea/dataset_clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pandda_nn/.idea/pandda_nn.iml" filepath="$PROJECT_DIR$/../pandda_nn/.idea/pandda_nn.iml" />
+    </modules>
+  </component>
+</project>
